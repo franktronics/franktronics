@@ -17,7 +17,7 @@
 
 ## Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=franktronics&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Franktronics's github stats" /></a><br/>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=franktronics&show_icons=true&theme=github_light&include_all_commits=true&count_private=true" alt="Franktronics's github stats" /></a><br/> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=franktronics&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Franktronics's github stats" /></a><br/><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=franktronics&show_icons=true&theme=github_light&include_all_commits=true&count_private=true" alt="Franktronics's github stats" /></a><br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franktronics&count_private=true&layout=compact&theme=github_dark&include_all_commits=true" /></a> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franktronics&count_private=true&layout=compact&theme=github_light&include_all_commits=true" /></a> 
