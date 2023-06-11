@@ -11,9 +11,9 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
 
+## Stats: 
 
-![](https://raw.githubusercontent.com/franktronics/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/franktronics/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/franktronics/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/franktronics/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/franktronics/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/franktronics/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/franktronics/github-stats/blob/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/franktronics/github-stats/blob/master/generated/languages.svg#gh-light-mode-only)
