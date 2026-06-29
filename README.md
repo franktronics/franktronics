@@ -15,8 +15,6 @@ I build full-stack applications.
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,electron,cpp,py,aws,linux,lua,vim" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franktronics&layout=compact&theme=transparent&hide_border=true)
-
 ## Links
 
 - Portfolio: https://franklin-tenepo.com/
